@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juntiapps
-- 👀 I’m interested in React Native Apps
-- 🌱 I’m currently learning in React Native Apps
+- 👀 I’m interested in React Native Apps, Laravel, Golang
+- 🌱 I’m currently learning in React Native Apps, Laravel, Golang
 - 📫 How to reach me ...
 
 <!---
